@@ -21,7 +21,7 @@ _exemples :_
 
 ## Versions
 _exemple :_
-**Dernière version stable :** 2.0
+**Dernière version stable :** 1.0
 
 ## Auteur
 * **Sarobidi* 
