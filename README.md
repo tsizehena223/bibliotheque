@@ -3,9 +3,8 @@
 Description du projet
 
 ## Objectifs
-	- enregistrer les livres
+	- enregistrement les livres
 	- consulation des livres
-
 
 ### Details
 	- page consulation 
@@ -14,14 +13,12 @@ Description du projet
 
 ## Fabriqué avec
 
-_exemples :_
 * [Bootstrap5] - Framework CSS (front-end)
 * [PHP8] - (back-end)
 * [VScode]
 
 ## Versions
-_exemple :_
-**Dernière version stable :** 1.0
+**Version stable :** 1.0
 
 ## Auteur
 * **Sarobidi* 
